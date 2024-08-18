@@ -3,7 +3,7 @@ public class Functions{
   public static int returnMul(int a,int b){
     int mult = a * b;
     return mult;
-  }
+  }  
   
   public static void main(String args[]){
     Scanner sc = new Scanner(System.in);
